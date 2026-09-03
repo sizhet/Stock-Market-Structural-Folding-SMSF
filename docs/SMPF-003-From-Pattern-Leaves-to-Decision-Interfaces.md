@@ -122,8 +122,7 @@ The next problem is:
 Let a Pattern Leaf be:
 
 $$
-L_j
-=
+L_j =
 \{
 P_{j1},
 P_{j2},
@@ -135,16 +134,14 @@ $$
 with:
 
 $$
-P_{jk}
-=
+P_{jk} =
 (X_{jk},Y_{jk},M_{jk})
 $$
 
 The RHS population is:
 
 $$
-RHS(L_j)
-=
+RHS(L_j) =
 \{
 (Y_{j1},M_{j1}),
 (Y_{j2},M_{j2}),
@@ -244,8 +241,7 @@ The first step is to partition historical RHS outcomes into meaningful Y-Buckets
 For example:
 
 $$
-\mathcal{Y}
-=
+\mathcal{Y} =
 \{
 Y_1,Y_2,\ldots,Y_K
 \}
@@ -338,8 +334,7 @@ Observation Count
 Conceptually:
 
 $$
-M(Y_i)
-=
+M(Y_i) =
 \{
 m_{i1},
 m_{i2},
@@ -421,8 +416,7 @@ $$
 the RHS analysis produces:
 
 $$
-D_j
-=
+D_j =
 \{
 B_1,B_2,\ldots,B_K
 \}
@@ -431,8 +425,7 @@ $$
 where each branch:
 
 $$
-B_i
-=
+B_i =
 \{
 Y_i,
 Score_i,
@@ -463,8 +456,7 @@ We define:
 
 $$
 \boxed{
-PLDI
-=
+PLDI =
 Pattern\ Leaf\ Decision\ Interface
 }
 $$
@@ -594,8 +586,7 @@ the interface should preserve those branches.
 Therefore:
 
 $$
-PLDI
-=
+PLDI =
 \{
 B_1,B_2,\ldots,B_K
 \}
@@ -604,8 +595,7 @@ $$
 rather than:
 
 $$
-PLDI
-=
+PLDI =
 \arg\max_i B_i
 $$
 
@@ -966,8 +956,7 @@ represent a user policy.
 Then:
 
 $$
-PolicySpace
-=
+PolicySpace =
 g(PLDI,P_u)
 $$
 
