@@ -587,8 +587,7 @@ $$
 ### Compose Interfaces
 
 $$
-Scale
-=
+Scale =
 StructuralDecomposition
 +
 InterfaceComposition
