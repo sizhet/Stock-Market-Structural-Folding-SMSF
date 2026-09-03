@@ -577,8 +577,7 @@ be current portfolio state.
 Then:
 
 $$
-PolicySpace
-=
+PolicySpace =
 g(E_L,P_u,S)
 $$
 
@@ -958,8 +957,7 @@ $$
 ### 6. Compose Interfaces
 
 $$
-Scale
-=
+Scale =
 StructuralDecomposition
 +
 InterfaceComposition
