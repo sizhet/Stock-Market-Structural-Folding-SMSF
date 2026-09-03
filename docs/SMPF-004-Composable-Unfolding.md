@@ -86,8 +86,7 @@ API
 SMSF-003 introduced:
 
 \[
-PLDI
-=
+PLDI =
 Pattern\ Leaf\ Decision\ Interface
 \]
 
@@ -329,8 +328,7 @@ $$
 SMSF constructs a composite evidence object:
 
 $$
-E_C
-=
+E_C =
 Compose(
 PLDI_1,
 PLDI_2,
@@ -450,8 +448,7 @@ or:
 Therefore:
 
 $$
-Composition
-=
+Composition =
 f(
 Evidence,
 QueryObjective
@@ -483,8 +480,7 @@ $$
 A multi-stock runtime can then construct:
 
 $$
-CompositePLDI
-=
+CompositePLDI =
 Compose(
 PLDI_{S_1},
 PLDI_{S_2},
@@ -536,8 +532,7 @@ Policy Event
 For example:
 
 $$
-E_C
-=
+E_C =
 Compose(
 PLDI_{MSFT},
 PLDI_{SP500},
@@ -604,8 +599,7 @@ Each may produce an independent evidence interface.
 Thus:
 
 $$
-E_C
-=
+E_C =
 Compose(
 PLDI_{price},
 PLDI_{volume},
@@ -782,8 +776,7 @@ $$
 Then:
 
 $$
-cos(v_c,v_e)
-=
+cos(v_c,v_e) =
 \frac{
 v_c \cdot v_e
 }{
@@ -847,8 +840,7 @@ Scoring Interface
 Thus:
 
 $$
-Scorer
-=
+Scorer =
 Plugin
 $$
 
@@ -964,28 +956,24 @@ A Policy transforms evidence and preference into decision behavior.
 Let:
 
 $$
-E
-=
+E =
 EvidenceSpace
 $$
 
 $$
-P
-=
+P =
 Preference
 $$
 
 $$
-S
-=
+S =
 PortfolioState
 $$
 
 Then:
 
 $$
-Action
-=
+Action =
 \pi(E,P,S)
 $$
 
@@ -1075,8 +1063,7 @@ be localized leaf evidence.
 Then:
 
 $$
-PolicySpace
-=
+PolicySpace =
 g(
 E_L,
 Preference,
@@ -2197,8 +2184,7 @@ The final decision is often temporary.
 Thus:
 
 $$
-Decision
-=
+Decision =
 Materialize(
 CurrentState,
 FoldedEvidence,
@@ -2255,8 +2241,7 @@ Thus:
 
 $$
 \boxed{
-SMSF
-=
+SMSF =
 Knowledge\ Infrastructure
 +
 Runtime
@@ -2440,8 +2425,7 @@ $$
 ### Principle 6
 
 $$
-Scale
-=
+Scale =
 Structural\ Decomposition
 +
 Interface\ Composition
