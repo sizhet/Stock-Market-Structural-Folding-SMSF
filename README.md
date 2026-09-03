@@ -325,7 +325,7 @@ An event may either be part of \(X\) or become an explicit Differential Tree lay
 ## 7. From Pattern Tree to Decision Interface
 
 <p align="center">
-  <img src="figures/Fig-003-Pattern-Tree-and-Leaf-Decision-Interface.png" width="95%" alt="Pattern Tree and Leaf Decision Interface">
+  <img src="working_notes/Fig-003-Pattern-Tree-and-Leaf-Decision-Interface.png" width="95%" alt="Pattern Tree and Leaf Decision Interface">
 </p>
 
 A Pattern Leaf represents a localized historical structural population.
