@@ -1,4 +1,4 @@
-````markdown
+
 # SMPF-001 — From Historical Market Data to Folded Structural Experience
 
 **Stock-Market Structural Folding (SMSF)**  

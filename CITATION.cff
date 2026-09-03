@@ -1,59 +1,70 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it using the metadata below."
 
-title: "General Structure Unfolding Intelligence: From Core Structure and Delta Modification to a General Paradigm of Intelligence"
+message: >-
+  If you use or discuss this work, please cite it using the
+  metadata provided in this file.
+
+title: "Stock-Market Structural Folding: A Differential-Tree Architecture for Historical Evidence Folding and Decision Unfolding"
 
 type: software
 
 authors:
   - family-names: "Tan"
     given-names: "Sizhe"
-  - name: "OpenAI ChatGPT"
 
 version: "1.0.0"
 
-date-released: "2026-09-02"
+date-released: "2026-09-03"
 
-repository-code: "https://github.com/sizhet/General-Structure-Unfolding-Intelligence-GSUI"
-
-url: "https://github.com/sizhet/General-Structure-Unfolding-Intelligence-GSUI"
-
-abstract: >
-  General Structure Unfolding Intelligence (GSUI) develops a structural
-  framework for studying intelligent processes as controlled unfolding
-  from persistent structure. Its canonical form is expressed as
-  <Core Structure> +/- <Delta Modification>, with extensions involving
-  context, triggering, unfolding space, control policy, evaluation,
-  invariant preservation, certification, feedback, structural growth,
-  and Structural Self. The repository examines folding and unfolding as
-  complementary phases of an intelligence cycle, distinguishes search
-  within an existing possibility space from structural unfolding that can
-  change future possibility itself, and introduces Structural Self as the
-  persistent reference frame relative to which Delta, capability,
-  continuity, world-model meaning, and future unfolding are defined.
-  GSUI further explores machine-native perception and cognition while
-  preserving the principle of human-governable consequential action.
+abstract: >-
+  Stock-Market Structural Folding (SMSF) presents a structural
+  architecture for transforming historical market data into
+  reusable, navigable, and composable market experience. Historical
+  episodes are represented through X-Y-M units, where X denotes
+  antecedent structure, Y denotes subsequent outcome, and M denotes
+  quantitative outcome measures. X-side structures are organized
+  through Pattern Differential Trees, while the historical Y/M
+  populations of localized leaves are transformed through Two-Way
+  CCC analysis into Pattern Leaf Decision Interfaces (PLDIs).
+  Runtime Structural Unfolding localizes current observations,
+  retrieves relevant PLDIs, composes evidence across multiple
+  stocks, market sources, contexts, and events, and applies
+  replaceable scoring and on-the-fly policy mechanisms. The
+  architecture separates structural evidence from user policy,
+  preserves multiple historical possibilities before action
+  selection, retains provenance, and provides a foundation for
+  AI- and SQL-like structural query interfaces over folded market
+  experience.
 
 keywords:
-  - "General Structure Unfolding Intelligence"
-  - "GSUI"
-  - "Structural Intelligence"
-  - "Structure Unfolding"
-  - "Structural Unfolding"
-  - "Core Structure"
-  - "Delta Modification"
-  - "Unfolding Space"
-  - "Control Plane"
-  - "Structural Growth"
-  - "Structural Self"
-  - "Runtime Invariant"
-  - "Invariant Preservation"
-  - "Structural Certification"
-  - "Machine-Native Cognition"
-  - "Machine-Native Perception"
-  - "World Model"
-  - "Continual Learning"
-  - "AI Governance"
-  - "AI Coding"
+  - structural folding
+  - structural unfolding
+  - stock market
+  - structural intelligence
+  - pattern differential tree
+  - differential tree
+  - pattern knowledge unit
+  - X-Y-M
+  - CCC
+  - two-way CCC
+  - pattern leaf decision interface
+  - PLDI
+  - composable unfolding
+  - structural evidence
+  - decision interface
+  - policy unfolding
+  - structural query
+  - folded intelligence
+  - artificial intelligence
+  - decision support
 
 license: "Apache-2.0"
+
+preferred-citation:
+  type: software
+  title: "Stock-Market Structural Folding: A Differential-Tree Architecture for Historical Evidence Folding and Decision Unfolding"
+  authors:
+    - family-names: "Tan"
+      given-names: "Sizhe"
+  version: "1.0.0"
+  year: 2026

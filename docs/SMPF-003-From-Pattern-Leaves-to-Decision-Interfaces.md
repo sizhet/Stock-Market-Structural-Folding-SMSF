@@ -1,4 +1,4 @@
-````markdown
+
 # SMPF-003 — From Pattern Leaves to Decision Interfaces
 
 **Stock-Market Structural Folding (SMSF)**  

@@ -1,4 +1,4 @@
-````markdown
+
 # SMPF-004 — Composable Unfolding: Multi-Source Evidence, On-the-Fly Policy, and AI APIs
 
 **Stock-Market Structural Folding (SMSF)**  

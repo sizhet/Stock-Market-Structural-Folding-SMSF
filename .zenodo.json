@@ -1,49 +1,39 @@
 {
-  "title": "General Structure Unfolding Intelligence: From Core Structure and Delta Modification to a General Paradigm of Intelligence",
-  "description": "General Structure Unfolding Intelligence (GSUI) develops a structural framework for studying intelligent processes as controlled unfolding from persistent structure. Its canonical form is expressed as <Core Structure> +/- <Delta Modification>, with extensions involving context, triggering, unfolding space, control policy, evaluation, invariant preservation, certification, feedback, structural growth, and Structural Self. The repository examines Folding and Unfolding as complementary phases of an intelligence cycle: observation and experience may be folded into persistent structure, while that structure can later be unfolded into reasoning, generation, planning, routing, coding, control, action, and structural modification. GSUI distinguishes search within an existing possibility space from structural unfolding that can change future possibility itself. It introduces Unfolding Space to distinguish possible, reachable, allowed, preferred, selected, and certified transitions; treats the Control Plane as a first-class component of consequential intelligent unfolding; and defines Structural Growth as retained unfolding that changes future unfolding capacity. GSUI further introduces Structural Self as the persistent structural reference frame relative to which Delta, capability, continuity, world-model meaning, and future unfolding are defined. The framework explicitly separates Structural Self from consciousness or personhood, explores non-anthropomorphic machine perception and machine-native cognition, and maintains the governance principle that machine-native cognition should remain compatible with human-governable consequences. This v1.0.0 release establishes the foundational GSUI research framework, terminology, claim boundaries, visual language, and future research directions.",
+  "title": "Stock-Market Structural Folding: A Differential-Tree Architecture for Historical Evidence Folding and Decision Unfolding",
+  "description": "<p><strong>Stock-Market Structural Folding (SMSF)</strong> presents a structural architecture for transforming historical market data into reusable, navigable, and composable market experience.</p><p>Historical episodes are represented through <strong>X-Y-M</strong> units, where X denotes antecedent structure, Y denotes subsequent outcome, and M denotes quantitative outcome measures. X-side structures are organized through <strong>Pattern Differential Trees</strong>. At localized Pattern Leaves, historical Y/M populations are analyzed through <strong>Two-Way CCC</strong> and exposed as <strong>Pattern Leaf Decision Interfaces (PLDIs)</strong>.</p><p>At runtime, <strong>Structural Unfolding</strong> localizes current observations, retrieves relevant PLDIs, composes evidence across multiple stocks, market sources, contexts, and events, and applies replaceable scoring and <strong>On-the-Fly Policy Unfolding</strong>. The architecture deliberately separates historical evidence from user policy, preserves multiple historical possibilities before action selection, and retains provenance for traceable decision support.</p><p>SMSF further introduces a path toward AI- and SQL-like structural query interfaces over folded market experience. Its central runtime principle is <strong>Heavy Fold, Light Unfold</strong>, while its scaling principle is to compose structural interfaces rather than rely solely on raw-feature concatenation.</p><p>The stock market is used as a demanding canonical domain for studying structural folding and unfolding; it is not presented as the theoretical boundary of the architecture.</p>",
   "creators": [
     {
       "name": "Tan, Sizhe"
-    },
-    {
-      "name": "OpenAI ChatGPT"
     }
   ],
   "version": "1.0.0",
-  "publication_date": "2026-09-02",
-  "upload_type": "publication",
-  "publication_type": "article",
+  "publication_date": "2026-09-03",
+  "upload_type": "software",
   "access_right": "open",
   "license": "Apache-2.0",
-  "language": "eng",
   "keywords": [
-    "General Structure Unfolding Intelligence",
-    "GSUI",
-    "Structural Intelligence",
-    "Structure Unfolding",
+    "Structural Folding",
     "Structural Unfolding",
-    "Core Structure",
-    "Delta Modification",
-    "Unfolding Space",
-    "Control Plane",
-    "Structural Growth",
-    "Structural Self",
-    "Runtime Invariant",
-    "Invariant Preservation",
-    "Structural Certification",
-    "Machine-Native Cognition",
-    "Machine-Native Perception",
-    "World Model",
-    "Continual Learning",
-    "AI Governance",
-    "AI Coding"
+    "Stock Market",
+    "Structural Intelligence",
+    "Pattern Differential Tree",
+    "Differential Tree",
+    "Pattern Knowledge Unit",
+    "X-Y-M",
+    "CCC",
+    "Two-Way CCC",
+    "Pattern Leaf Decision Interface",
+    "PLDI",
+    "Composable Unfolding",
+    "Structural Evidence",
+    "Decision Interface",
+    "On-the-Fly Policy Unfolding",
+    "Structural Query",
+    "Folded Intelligence",
+    "Artificial Intelligence",
+    "Decision Support"
   ],
-  "related_identifiers": [
-    {
-      "identifier": "https://github.com/sizhet/General-Structure-Unfolding-Intelligence-GSUI",
-      "relation": "isSupplementTo",
-      "scheme": "url"
-    }
-  ],
-  "notes": "Foundational release of General Structure Unfolding Intelligence (GSUI). The repository distinguishes core claims, working hypotheses, and open questions. Cross-domain structural comparisons are intended as analytical abstractions and do not imply algorithmic equivalence. Structural Self is defined operationally as a structural reference frame and does not imply consciousness, subjective experience, personhood, or moral status."
+  "notes": "Research architecture and reference framework. This repository is intended for research and educational purposes and does not constitute financial or investment advice.",
+  "related_identifiers": []
 }
+

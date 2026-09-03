@@ -1,4 +1,4 @@
-````markdown
+
 # SMPF-002 — Pattern Differential Tree: Structural Organization of Market Experience
 
 **Stock-Market Structural Folding (SMSF)**  
