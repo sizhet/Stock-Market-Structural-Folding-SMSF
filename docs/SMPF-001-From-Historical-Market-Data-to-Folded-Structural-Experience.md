@@ -873,8 +873,7 @@ This leads to a general design principle:
 For SMSF:
 
 $$
-Good\ Folding
-=
+Good\ Folding =
 Compression
 +
 Structural\ Preservation
