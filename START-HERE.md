@@ -197,8 +197,7 @@ $$
 where:
 
 $$
-T_X
-=
+T_X =
 Pattern\ Differential\ Tree
 $$
 
@@ -245,8 +244,7 @@ Metric Distance may help construct these differences.
 But SMSF does not assume:
 
 $$
-MetricSimilarity
-=
+MetricSimilarity =
 StructuralIdentity
 $$
 
@@ -434,8 +432,7 @@ Y4 — Decline
 Conceptually:
 
 $$
-PLDI
-=
+PLDI =
 \{
 Y_i,
 Score_i,
@@ -712,8 +709,7 @@ $$
 the runtime can generate:
 
 $$
-PolicySpace
-=
+PolicySpace =
 g(PLDI,P_u,S)
 $$
 
@@ -1339,8 +1335,7 @@ $$
 
 $$
 \boxed{
-Scale
-=
+Scale =
 StructuralDecomposition
 +
 InterfaceComposition
