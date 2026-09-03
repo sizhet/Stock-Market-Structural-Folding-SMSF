@@ -329,8 +329,7 @@ SMSF treats Metric Distance as a tool.
 It does not assume:
 
 $$
-MetricSimilarity
-=
+MetricSimilarity =
 StructuralIdentity
 $$
 
@@ -844,8 +843,7 @@ Structural Folding transforms Observation Space into Evidence Space.
 The user-specific decision space generated from evidence, preferences, constraints, and current state.
 
 $$
-A
-=
+A =
 \pi(E,P,S)
 $$
 
@@ -881,8 +879,7 @@ Preference is not market evidence.
 A mapping from evidence and user state to candidate actions.
 
 $$
-Action
-=
+Action =
 \pi(E,P,S)
 $$
 
@@ -1055,8 +1052,7 @@ Structural Decomposition precedes Interface Composition.
 Evidence produced by combining multiple PLDIs.
 
 $$
-E_C
-=
+E_C =
 Compose(
 PLDI_1,
 \ldots,
@@ -1186,8 +1182,7 @@ A Scoring Tree using Cosine Similarity as one possible default similarity mechan
 For vectors \(v_c\) and \(v_e\):
 
 $$
-cos(v_c,v_e)
-=
+cos(v_c,v_e) =
 \frac{v_c\cdot v_e}
 {\|v_c\|\|v_e\|}
 $$

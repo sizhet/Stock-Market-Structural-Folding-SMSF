@@ -287,8 +287,7 @@ to avoid turning the Pattern Differential Tree into an implicit outcome classifi
 A future split-quality function may combine:
 
 $$
-Q_{split}
-=
+Q_{split} =
 f(
 StructuralSeparation,
 Support,
@@ -444,8 +443,7 @@ This would make metric experimentation independent of tree and PLDI implementati
 Future work should explore:
 
 $$
-StructuralSimilarity
-=
+StructuralSimilarity =
 f(
 MetricSimilarity,
 ContextCompatibility,
@@ -883,8 +881,7 @@ This supports both explanation and plugin replacement.
 Cosine Similarity can serve as one initial scoring baseline:
 
 $$
-cos(v_a,v_b)
-=
+cos(v_a,v_b) =
 \frac{v_a\cdot v_b}
 {\|v_a\|\|v_b\|}
 $$
@@ -1255,8 +1252,7 @@ Markets evolve.
 Future versions should explore:
 
 $$
-Weight_i
-=
+Weight_i =
 f(
 StructuralSimilarity,
 Recency,
@@ -1417,8 +1413,7 @@ Policy
 A decision record can then capture:
 
 $$
-Decision_t
-=
+Decision_t =
 f(
 Tree^{v},
 PLDI^{v},
@@ -1677,8 +1672,7 @@ Because SMSF is a Folding architecture, future work should measure the Fold itse
 Possible measures include:
 
 $$
-CompressionRatio
-=
+CompressionRatio =
 \frac{RawEpisodes}{StructuralObjects}
 $$
 
@@ -1707,8 +1701,7 @@ A runtime should know how much of current observation space is represented by ex
 Possible metric:
 
 $$
-Coverage(X_q)
-=
+Coverage(X_q) =
 max_i\ Similarity(X_q,L_i)
 $$
 
