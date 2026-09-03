@@ -392,8 +392,7 @@ $$
 Therefore the differential tree may be constructed through:
 
 $$
-\mathcal{D}
-=
+\mathcal{D} =
 \{
 d_1,d_2,\ldots,d_K
 \}
@@ -410,8 +409,7 @@ SMSF uses metrics as tools.
 It does not equate:
 
 $$
-Metric\ Similarity
-=
+Metric\ Similarity =
 Structural\ Identity
 $$
 
@@ -443,8 +441,7 @@ while context difference remains substantial.
 Therefore:
 
 $$
-Structural\ Comparison
-=
+Structural\ Comparison =
 Metric\ Evidence
 +
 Perspective
@@ -811,8 +808,7 @@ $$
 A more scalable interpretation is:
 
 $$
-SMSF
-=
+SMSF =
 \{T_1,T_2,\ldots,T_n\}
 +
 Composition
@@ -1049,8 +1045,7 @@ A Pattern Leaf represents a localized historical structural population.
 Let:
 
 $$
-L_j
-=
+L_j =
 \{
 P_{j1},P_{j2},\ldots,P_{jn}
 \}
@@ -1059,8 +1054,7 @@ $$
 where each:
 
 $$
-P_{jk}
-=
+P_{jk} =
 (X_{jk},Y_{jk},M_{jk})
 $$
 
@@ -1093,8 +1087,7 @@ Once a sufficiently coherent leaf has been formed, SMSF may compute a CCC repres
 Conceptually:
 
 $$
-CCC(L_j)
-=
+CCC(L_j) =
 CCC(
 X_{j1},
 X_{j2},
@@ -1400,8 +1393,7 @@ but:
 Each tree traversal produces a structural path:
 
 $$
-Path(X_q)
-=
+Path(X_q) =
 (D_1,D_2,\ldots,D_n)
 $$
 
@@ -1765,8 +1757,7 @@ Once the Pattern Differential Tree has localized a structurally coherent histori
 Suppose:
 
 $$
-L_j
-=
+L_j =
 \{
 (X_1,Y_1,M_1),
 \ldots,
