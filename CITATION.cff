@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+
+title: "General Structure Unfolding Intelligence: From Core Structure and Delta Modification to a General Paradigm of Intelligence"
+
+type: software
+
+authors:
+  - family-names: "Tan"
+    given-names: "Sizhe"
+  - name: "OpenAI ChatGPT"
+
+version: "1.0.0"
+
+date-released: "2026-09-02"
+
+repository-code: "https://github.com/sizhet/General-Structure-Unfolding-Intelligence-GSUI"
+
+url: "https://github.com/sizhet/General-Structure-Unfolding-Intelligence-GSUI"
+
+abstract: >
+  General Structure Unfolding Intelligence (GSUI) develops a structural
+  framework for studying intelligent processes as controlled unfolding
+  from persistent structure. Its canonical form is expressed as
+  <Core Structure> +/- <Delta Modification>, with extensions involving
+  context, triggering, unfolding space, control policy, evaluation,
+  invariant preservation, certification, feedback, structural growth,
+  and Structural Self. The repository examines folding and unfolding as
+  complementary phases of an intelligence cycle, distinguishes search
+  within an existing possibility space from structural unfolding that can
+  change future possibility itself, and introduces Structural Self as the
+  persistent reference frame relative to which Delta, capability,
+  continuity, world-model meaning, and future unfolding are defined.
+  GSUI further explores machine-native perception and cognition while
+  preserving the principle of human-governable consequential action.
+
+keywords:
+  - "General Structure Unfolding Intelligence"
+  - "GSUI"
+  - "Structural Intelligence"
+  - "Structure Unfolding"
+  - "Structural Unfolding"
+  - "Core Structure"
+  - "Delta Modification"
+  - "Unfolding Space"
+  - "Control Plane"
+  - "Structural Growth"
+  - "Structural Self"
+  - "Runtime Invariant"
+  - "Invariant Preservation"
+  - "Structural Certification"
+  - "Machine-Native Cognition"
+  - "Machine-Native Perception"
+  - "World Model"
+  - "Continual Learning"
+  - "AI Governance"
+  - "AI Coding"
+
+license: "Apache-2.0"
