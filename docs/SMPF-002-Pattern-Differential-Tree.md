@@ -1550,8 +1550,7 @@ New market structures may fail to fit existing leaves well.
 Suppose:
 
 $$
-\min_j d(X_q,L_j)
->
+\min_j d(X_q,L_j) >
 \tau
 $$
 

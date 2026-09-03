@@ -1825,8 +1825,7 @@ then compare their RHS distributions.
 This yields:
 
 $$
-CounterfactualComparison
-=
+CounterfactualComparison =
 Compare(
 Evidence_A,
 Evidence_B
