@@ -28,6 +28,14 @@ where:
 - \(Y_k\) is the subsequent outcome or outcome class;
 - \(M_k\) contains quantitative measures describing that outcome.
 
+---
+
+![Fig-002 — X-Y-M Pattern Knowledge Unit](../figures/Fig-002-XYM-Pattern-Knowledge-Unit.png)
+
+**Fig. 002 — X-Y-M Pattern Knowledge Unit.** A historical market episode is represented by antecedent structure \(X\), subsequent outcome \(Y\), and quantitative outcome measures \(M\). The X-Y-M unit preserves both the conditions preceding an outcome and the historical consequences that followed.
+
+---
+
 The \(X\)-side may include price and volume structures, event sequences, market context, value-based events, cross-asset relationships, user-defined representations, and other structural information.
 
 SMSF does not require one universal definition of a market pattern. Pattern discovery and Pattern Intermediate Representation (Pattern IR) may be supplied by the framework, by domain-specific algorithms, or by user plugins and AI agents.
@@ -873,7 +881,8 @@ This leads to a general design principle:
 For SMSF:
 
 $$
-Good\ Folding =
+Good\ Folding
+=
 Compression
 +
 Structural\ Preservation
@@ -1234,6 +1243,12 @@ The next question is:
 > How should the \(X_i\) structures be organized so that similar historical experience can be efficiently localized without destroying meaningful structural differences?
 
 SMSF answers this with the **Pattern Differential Tree**.
+
+---
+
+![Fig-001 — SMSF Grand Map](../figures/Fig-001-SMPF-Grand-Map.png)
+
+**Fig. 001 — SMSF Grand Map.** Historical market observations are transformed offline into folded structural experience through Pattern Discovery, Pattern IR, X-Y-M episodes, Differential Trees, and Pattern Leaf Decision Interfaces. Online runtime then localizes current patterns, retrieves and composes relevant evidence, and unfolds a decision space through scoring and policy.
 
 ---
 

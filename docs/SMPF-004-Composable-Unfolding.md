@@ -130,6 +130,12 @@ The runtime therefore needs a composition layer.
 
 ---
 
+![Fig-004 — Multi-Source Composable Unfolding](../figures/Fig-004-Multi-Source-Composable-Unfolding.png)
+
+**Fig. 004 — Multi-Source Composable Unfolding.** Independently folded stocks, indexes, market indicators, contexts, and events expose source-local PLDIs that can be aligned and composed into a shared Evidence Space. SMSF therefore scales through structural decomposition and interface composition rather than requiring all information to be collapsed into one raw feature vector.
+
+---
+
 # 2. The Raw-Feature Concatenation Problem
 
 A conventional approach may combine all sources into one vector:
@@ -1416,6 +1422,12 @@ The question changes from:
 to:
 
 > Which structural historical regions are relevant to this current situation?
+
+---
+
+![Fig-005 — AI Structural Query Runtime](../figures/Fig-005-AI-Structural-Query-Runtime.png)
+
+**Fig. 005 — AI Structural Query Runtime.** Human and AI clients can operate over folded market experience through structural operations on Patterns, Leaves, PLDIs, Context, Evidence, Policy, and Provenance. Instead of repeatedly reconstructing structure from raw observations, an AI can query and manipulate an explicit structural decision substrate.
 
 ---
 

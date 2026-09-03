@@ -1200,6 +1200,12 @@ The online system localizes current experience into the same structural topology
 
 ---
 
+![Fig-003 — Pattern Differential Tree and Leaf Decision Interface](../figures/Fig-003-Pattern-Tree-and-Leaf-Decision-Interface.png)
+
+**Fig. 003 — Pattern Differential Tree and Leaf Decision Interface.** Historical X-structures are organized through differential paths into localized Pattern Leaves. Each leaf preserves its associated historical Y/M population, creating the structural boundary from localization to subsequent decision-interface construction.
+
+---
+
 # 24. Online Localization
 
 Given a current target pattern:
