@@ -35,12 +35,12 @@ How\ to\ Unfold
 
 ## 2. Core Articles
 
-### SMPF-001 — From Historical Market Data to Folded Structural Experience
+### SMSF-001 — From Historical Market Data to Folded Structural Experience
 
 **File**
 
 ```text
-docs/SMPF-001-From-Historical-Market-Data-to-Folded-Structural-Experience.md
+docs/SMSF-001-From-Historical-Market-Data-to-Folded-Structural-Experience.md
 ````
 
 **Focus**
@@ -62,12 +62,12 @@ docs/SMPF-001-From-Historical-Market-Data-to-Folded-Structural-Experience.md
 
 ---
 
-### SMPF-002 — Pattern Differential Tree
+### SMSF-002 — Pattern Differential Tree
 
 **File**
 
 ```text
-docs/SMPF-002-Pattern-Differential-Tree.md
+docs/SMSF-002-Pattern-Differential-Tree.md
 ```
 
 **Focus**
@@ -89,12 +89,12 @@ docs/SMPF-002-Pattern-Differential-Tree.md
 
 ---
 
-### SMPF-003 — From Pattern Leaves to Decision Interfaces
+### SMSF-003 — From Pattern Leaves to Decision Interfaces
 
 **File**
 
 ```text
-docs/SMPF-003-From-Pattern-Leaves-to-Decision-Interfaces.md
+docs/SMSF-003-From-Pattern-Leaves-to-Decision-Interfaces.md
 ```
 
 **Focus**
@@ -115,12 +115,12 @@ docs/SMPF-003-From-Pattern-Leaves-to-Decision-Interfaces.md
 
 ---
 
-### SMPF-004 — Composable Unfolding
+### SMSF-004 — Composable Unfolding
 
 **File**
 
 ```text
-docs/SMPF-004-Composable-Unfolding.md
+docs/SMSF-004-Composable-Unfolding.md
 ```
 
 **Focus**
@@ -198,12 +198,12 @@ The five core figures provide a visual path through the architecture.
 
 ---
 
-### Fig-001 — SMPF Grand Map
+### Fig-001 — SMSF Grand Map
 
 **File**
 
 ```text
-figures/Fig-001-SMPF-Grand-Map.png
+figures/Fig-001-SMSF-Grand-Map.png
 ```
 
 **Shows**
@@ -218,7 +218,7 @@ figures/Fig-001-SMPF-Grand-Map.png
 
 ```text
 README.md
-SMPF-001
+SMSF-001
 ```
 
 ---
@@ -241,7 +241,7 @@ figures/Fig-002-XYM-Pattern-Knowledge-Unit.png
 **Best paired with**
 
 ```text
-SMPF-001
+SMSF-001
 ```
 
 ---
@@ -267,8 +267,8 @@ figures/Fig-003-Pattern-Tree-and-Leaf-Decision-Interface.png
 **Best paired with**
 
 ```text
-SMPF-002
-SMPF-003
+SMSF-002
+SMSF-003
 ```
 
 ---
@@ -292,7 +292,7 @@ figures/Fig-004-Multi-Source-Composable-Unfolding.png
 **Best paired with**
 
 ```text
-SMPF-004
+SMSF-004
 ```
 
 ---
@@ -318,7 +318,7 @@ figures/Fig-005-AI-Structural-Query-Runtime.png
 **Best paired with**
 
 ```text
-SMPF-004
+SMSF-004
 ```
 
 ---
@@ -370,13 +370,13 @@ Goal:
 ## Path B — Core Theory
 
 ```text
-SMPF-001
+SMSF-001
    ↓
-SMPF-002
+SMSF-002
    ↓
-SMPF-003
+SMSF-003
    ↓
-SMPF-004
+SMSF-004
 ```
 
 Goal:
@@ -388,9 +388,9 @@ Goal:
 ## Path C — Differential Tree
 
 ```text
-SMPF-001
+SMSF-001
    ↓
-SMPF-002
+SMSF-002
    ↓
 Fig-003
 ```
@@ -404,11 +404,11 @@ Goal:
 ## Path D — Decision Interface
 
 ```text
-SMPF-003
+SMSF-003
    ↓
 Fig-003
    ↓
-SMPF-004
+SMSF-004
 ```
 
 Goal:
@@ -420,7 +420,7 @@ Goal:
 ## Path E — AI / API Runtime
 
 ```text
-SMPF-004
+SMSF-004
    ↓
 Fig-004
    ↓
@@ -646,14 +646,14 @@ Stock-Market-Structural-Folding-SMSF/
 ├── CONTENTS.md
 │
 ├── docs/
-│   ├── SMPF-001-From-Historical-Market-Data-to-Folded-Structural-Experience.md
-│   ├── SMPF-002-Pattern-Differential-Tree.md
-│   ├── SMPF-003-From-Pattern-Leaves-to-Decision-Interfaces.md
-│   └── SMPF-004-Composable-Unfolding.md
+│   ├── SMSF-001-From-Historical-Market-Data-to-Folded-Structural-Experience.md
+│   ├── SMSF-002-Pattern-Differential-Tree.md
+│   ├── SMSF-003-From-Pattern-Leaves-to-Decision-Interfaces.md
+│   └── SMSF-004-Composable-Unfolding.md
 │
 ├── figures/
 │   ├── README-Poster.png
-│   ├── Fig-001-SMPF-Grand-Map.png
+│   ├── Fig-001-SMSF-Grand-Map.png
 │   ├── Fig-002-XYM-Pattern-Knowledge-Unit.png
 │   ├── Fig-003-Pattern-Tree-and-Leaf-Decision-Interface.png
 │   ├── Fig-004-Multi-Source-Composable-Unfolding.png
@@ -721,13 +721,13 @@ README.md
    ↓
 START-HERE.md
    ↓
-SMPF-001
+SMSF-001
    ↓
-SMPF-002
+SMSF-002
    ↓
-SMPF-003
+SMSF-003
    ↓
-SMPF-004
+SMSF-004
 ```
 
 This is the canonical path through **Stock-Market Structural Folding (SMSF)**.

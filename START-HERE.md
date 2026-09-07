@@ -1023,7 +1023,7 @@ SMSF is intentionally built around four primary articles.
 
 ---
 
-## SMPF-001 — From Historical Market Data to Folded Structural Experience
+## SMSF-001 — From Historical Market Data to Folded Structural Experience
 
 **Question:**
 
@@ -1040,7 +1040,7 @@ Read this first to understand:
 
 ---
 
-## SMPF-002 — Pattern Differential Tree
+## SMSF-002 — Pattern Differential Tree
 
 **Question:**
 
@@ -1059,7 +1059,7 @@ Read this for:
 
 ---
 
-## SMPF-003 — From Pattern Leaves to Decision Interfaces
+## SMSF-003 — From Pattern Leaves to Decision Interfaces
 
 **Question:**
 
@@ -1078,7 +1078,7 @@ Read this for:
 
 ---
 
-## SMPF-004 — Composable Unfolding
+## SMSF-004 — Composable Unfolding
 
 **Question:**
 
@@ -1106,7 +1106,7 @@ Read:
 ```text
 README.md
     ↓
-Fig-001 — SMPF Grand Map
+Fig-001 — SMSF Grand Map
     ↓
 this START-HERE.md
 ```
@@ -1122,13 +1122,13 @@ Goal:
 Read:
 
 ```text
-SMPF-001
+SMSF-001
     ↓
-SMPF-002
+SMSF-002
     ↓
-SMPF-003
+SMSF-003
     ↓
-SMPF-004
+SMSF-004
 ```
 
 Goal:
@@ -1142,9 +1142,9 @@ Goal:
 Read:
 
 ```text
-SMPF-003
+SMSF-003
     ↓
-SMPF-004
+SMSF-004
 ```
 
 Goal:
@@ -1158,7 +1158,7 @@ Goal:
 Read:
 
 ```text
-SMPF-004
+SMSF-004
     ↓
 Fig-005 — AI Structural Query Runtime
 ```
@@ -1171,7 +1171,7 @@ Goal:
 
 # 28. Five Core Figures
 
-### Fig-001 — SMPF Grand Map
+### Fig-001 — SMSF Grand Map
 
 The complete offline-folding / online-unfolding architecture.
 
@@ -1478,18 +1478,18 @@ $$
 
 Begin with:
 
-**SMPF-001 — From Historical Market Data to Folded Structural Experience**
+**SMSF-001 — From Historical Market Data to Folded Structural Experience**
 
 Then continue:
 
 ```text
-SMPF-001
+SMSF-001
     ↓
-SMPF-002
+SMSF-002
     ↓
-SMPF-003
+SMSF-003
     ↓
-SMPF-004
+SMSF-004
 ```
 
 The conceptual progression is:

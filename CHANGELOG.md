@@ -627,16 +627,16 @@ Version 1.0.0 explicitly establishes several research constraints:
 The initial release establishes four primary documents:
 
 ```text
-SMPF-001
+SMSF-001
 From Historical Market Data to Folded Structural Experience
 
-SMPF-002
+SMSF-002
 Pattern Differential Tree
 
-SMPF-003
+SMSF-003
 From Pattern Leaves to Decision Interfaces
 
-SMPF-004
+SMSF-004
 Composable Unfolding
 ```
 
@@ -690,7 +690,7 @@ These documents provide:
 Established five core figures:
 
 ```text
-Fig-001 — SMPF Grand Map
+Fig-001 — SMSF Grand Map
 
 Fig-002 — X-Y-M Pattern Knowledge Unit
 

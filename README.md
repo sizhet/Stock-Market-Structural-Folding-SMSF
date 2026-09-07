@@ -163,7 +163,7 @@ Pattern discovery and Pattern IR are intentionally extensible and may be supplie
 ## 3. SMSF Grand Map
 
 <p align="center">
-  <img src="figures/Fig-001-SMPF-Grand-Map.png" width="95%" alt="SMSF Grand Map">
+  <img src="figures/Fig-001-SMSF-Grand-Map.png" width="95%" alt="SMSF Grand Map">
 </p>
 
 The complete architecture has two major phases.
@@ -831,19 +831,19 @@ $$
 
 The repository is intentionally centered on a small set of core documents.
 
-### SMPF-001 — From Historical Market Data to Folded Structural Experience
+### SMSF-001 — From Historical Market Data to Folded Structural Experience
 
 Defines the basic problem, X–Y–M historical episodes, Pattern IR, and structural folding objective.
 
-### SMPF-002 — Pattern Differential Tree
+### SMSF-002 — Pattern Differential Tree
 
 Develops the structural organization of historical \(X\)-patterns through Differential Trees, metrics, context, events, and leaf localization.
 
-### SMPF-003 — From Pattern Leaves to Decision Interfaces
+### SMSF-003 — From Pattern Leaves to Decision Interfaces
 
 Introduces Two-Way CCC, RHS outcome organization, PLDI, uncertainty preservation, provenance, and local companion models.
 
-### SMPF-004 — Composable Unfolding
+### SMSF-004 — Composable Unfolding
 
 Develops multi-source composition, scoring, on-the-fly Policy Space, AI agents, and SQL-like structural runtime APIs.
 
@@ -875,7 +875,7 @@ $$
 
 | Figure                                                 | Purpose                                              |
 | ------------------------------------------------------ | ---------------------------------------------------- |
-| **Fig-001 — SMPF Grand Map**                           | End-to-end SMSF architecture                         |
+| **Fig-001 — SMSF Grand Map**                           | End-to-end SMSF architecture                         |
 | **Fig-002 — X-Y-M Pattern Knowledge Unit**             | Historical experience representation                 |
 | **Fig-003 — Pattern Tree and Leaf Decision Interface** | Differential localization and PLDI construction      |
 | **Fig-004 — Multi-Source Composable Unfolding**        | Cross-stock and cross-source evidence composition    |
@@ -892,14 +892,14 @@ Stock-Market-Structural-Folding-SMSF/
 ├── README.md
 │
 ├── docs/
-│   ├── SMPF-001-From-Historical-Market-Data-to-Folded-Structural-Experience.md
-│   ├── SMPF-002-Pattern-Differential-Tree.md
-│   ├── SMPF-003-From-Pattern-Leaves-to-Decision-Interfaces.md
-│   └── SMPF-004-Composable-Unfolding.md
+│   ├── SMSF-001-From-Historical-Market-Data-to-Folded-Structural-Experience.md
+│   ├── SMSF-002-Pattern-Differential-Tree.md
+│   ├── SMSF-003-From-Pattern-Leaves-to-Decision-Interfaces.md
+│   └── SMSF-004-Composable-Unfolding.md
 │
 ├── figures/
 │   ├── README-Poster.png
-│   ├── Fig-001-SMPF-Grand-Map.png
+│   ├── Fig-001-SMSF-Grand-Map.png
 │   ├── Fig-002-XYM-Pattern-Knowledge-Unit.png
 │   ├── Fig-003-Pattern-Tree-and-Leaf-Decision-Interface.png
 │   ├── Fig-004-Multi-Source-Composable-Unfolding.png
