@@ -1,5 +1,5 @@
 
-# SMPF-003 — From Pattern Leaves to Decision Interfaces
+# SMSF-003 — From Pattern Leaves to Decision Interfaces
 
 **Stock-Market Structural Folding (SMSF)**  
 **A Differential-Tree Architecture for Historical Evidence Folding and Decision Unfolding**

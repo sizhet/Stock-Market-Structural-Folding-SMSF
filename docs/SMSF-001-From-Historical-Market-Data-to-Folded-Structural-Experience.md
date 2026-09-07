@@ -1,5 +1,5 @@
 
-# SMPF-001 — From Historical Market Data to Folded Structural Experience
+# SMSF-001 — From Historical Market Data to Folded Structural Experience
 
 **Stock-Market Structural Folding (SMSF)**  
 **A Differential-Tree Architecture for Historical Evidence Folding and Decision Unfolding**
@@ -1246,7 +1246,7 @@ SMSF answers this with the **Pattern Differential Tree**.
 
 ---
 
-![Fig-001 — SMSF Grand Map](../figures/Fig-001-SMPF-Grand-Map.png)
+![Fig-001 — SMSF Grand Map](../figures/Fig-001-SMSF-Grand-Map.png)
 
 **Fig. 001 — SMSF Grand Map.** Historical market observations are transformed offline into folded structural experience through Pattern Discovery, Pattern IR, X-Y-M episodes, Differential Trees, and Pattern Leaf Decision Interfaces. Online runtime then localizes current patterns, retrieves and composes relevant evidence, and unfolds a decision space through scoring and policy.
 

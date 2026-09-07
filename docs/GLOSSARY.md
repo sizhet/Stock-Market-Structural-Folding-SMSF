@@ -1748,8 +1748,8 @@ $$
 * `README.md`
 * `START-HERE.md`
 * `CONTENTS.md`
-* `SMPF-001 — From Historical Market Data to Folded Structural Experience`
-* `SMPF-002 — Pattern Differential Tree`
-* `SMPF-003 — From Pattern Leaves to Decision Interfaces`
-* `SMPF-004 — Composable Unfolding`
+* `SMSF-001 — From Historical Market Data to Folded Structural Experience`
+* `SMSF-002 — Pattern Differential Tree`
+* `SMSF-003 — From Pattern Leaves to Decision Interfaces`
+* `SMSF-004 — Composable Unfolding`
 

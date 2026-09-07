@@ -1,5 +1,5 @@
 
-# SMPF-002 — Pattern Differential Tree: Structural Organization of Market Experience
+# SMSF-002 — Pattern Differential Tree: Structural Organization of Market Experience
 
 **Stock-Market Structural Folding (SMSF)**  
 **A Differential-Tree Architecture for Historical Evidence Folding and Decision Unfolding**
