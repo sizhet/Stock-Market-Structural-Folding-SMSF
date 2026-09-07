@@ -93,12 +93,12 @@ immediately after the opening description and core equations.
 
 ---
 
-# 3. Fig-001 — SMPF Grand Map
+# 3. Fig-001 — SMSF Grand Map
 
 ## File
 
 ```text
-figures/Fig-001-SMPF-Grand-Map.png
+figures/Fig-001-SMSF-Grand-Map.png
 ```
 
 ## Primary Question
@@ -166,13 +166,13 @@ Online runtime work focuses on:
 ```text
 README.md
 START-HERE.md
-SMPF-001
-SMPF-004
+SMSF-001
+SMSF-004
 ```
 
 ## Recommended Article Placement
 
-### SMPF-001
+### SMSF-001
 
 Insert after the section introducing the canonical SMSF transformation:
 
@@ -188,7 +188,7 @@ Suggested caption:
 
 > **Fig. 001 — SMSF Grand Map.** Historical market observations are transformed offline into folded structural experience through Pattern Discovery, Pattern IR, X-Y-M episodes, Differential Trees, and Pattern Leaf Decision Interfaces. Online runtime then localizes current patterns, composes relevant evidence, applies scoring and policy, and unfolds decision possibilities.
 
-### SMPF-004
+### SMSF-004
 
 May also be referenced near the final canonical architecture section.
 
@@ -284,14 +284,14 @@ The purpose is to preserve antecedent structure and subsequent consequences toge
 ## Best Paired With
 
 ```text
-SMPF-001
+SMSF-001
 START-HERE.md
 GLOSSARY.md
 ```
 
 ## Recommended Article Placement
 
-### SMPF-001
+### SMSF-001
 
 Insert immediately after the introduction of:
 
@@ -407,14 +407,14 @@ at the Pattern Leaf.
 ## Best Paired With
 
 ```text
-SMPF-002
-SMPF-003
+SMSF-002
+SMSF-003
 START-HERE.md
 ```
 
 ## Recommended Article Placement
 
-### SMPF-002
+### SMSF-002
 
 Insert after the section defining the Pattern Leaf as the offline/online handshake.
 
@@ -422,7 +422,7 @@ Suggested caption:
 
 > **Fig. 003 — Pattern Differential Tree and Pattern Leaf Decision Interface.** Historical \(X\)-structures are localized through a Differential Tree, while each leaf preserves its associated \(Y/M\) history and exposes that evidence through a PLDI.
 
-### SMPF-003
+### SMSF-003
 
 Insert after the formal definition of:
 
@@ -514,14 +514,14 @@ Composition occurs through standardized decision-facing interfaces.
 ## Best Paired With
 
 ```text
-SMPF-004
+SMSF-004
 README.md
 START-HERE.md
 ```
 
 ## Recommended Article Placement
 
-### SMPF-004
+### SMSF-004
 
 Insert after the sections:
 
@@ -613,14 +613,14 @@ AI becomes a runtime client of explicit structural knowledge.
 ## Best Paired With
 
 ```text
-SMPF-004
+SMSF-004
 README.md
 FUTURE-DIRECTIONS.md
 ```
 
 ## Recommended Article Placement
 
-### SMPF-004
+### SMSF-004
 
 Insert near:
 
@@ -638,7 +638,7 @@ Suggested caption:
 
 # 8. Figure-to-Article Mapping
 
-| Figure                                | SMPF-001 | SMPF-002 | SMPF-003 | SMPF-004 |
+| Figure                                | SMSF-001 | SMSF-002 | SMSF-003 | SMSF-004 |
 | ------------------------------------- | :------: | :------: | :------: | :------: |
 | README Poster                         |     ○    |     ○    |     ○    |     ○    |
 | Fig-001 — Grand Map                   |   **●**  |     ○    |     ○    |   **●**  |
@@ -798,51 +798,39 @@ $$
 
 ## README Poster
 
-```html
 <p align="center">
-  <img src="figures/README-Poster.png" width="100%" alt="Stock-Market Structural Folding README Poster">
+  <img src="../figures/Stock-Market-Structural-Folding-Poster1.png" width="100%" alt="Stock-Market Structural Folding README Poster">
 </p>
-```
 
 ---
 
 ## Fig-001
 
-```markdown
-![Fig-001 — SMSF Grand Map](figures/Fig-001-SMPF-Grand-Map.png)
-```
+![Fig-001 — SMSF Grand Map](../figures/Fig-001-SMSF-Grand-Map.png)
 
 ---
 
 ## Fig-002
 
-```markdown
-![Fig-002 — X-Y-M Pattern Knowledge Unit](figures/Fig-002-XYM-Pattern-Knowledge-Unit.png)
-```
+![Fig-002 — X-Y-M Pattern Knowledge Unit](../figures/Fig-002-XYM-Pattern-Knowledge-Unit.png)
 
 ---
 
 ## Fig-003
 
-```markdown
-![Fig-003 — Pattern Tree and Leaf Decision Interface](figures/Fig-003-Pattern-Tree-and-Leaf-Decision-Interface.png)
-```
+![Fig-003 — Pattern Tree and Leaf Decision Interface](../figures/Fig-003-Pattern-Tree-and-Leaf-Decision-Interface.png)
 
 ---
 
 ## Fig-004
 
-```markdown
-![Fig-004 — Multi-Source Composable Unfolding](figures/Fig-004-Multi-Source-Composable-Unfolding.png)
-```
+![Fig-004 — Multi-Source Composable Unfolding](../figures/Fig-004-Multi-Source-Composable-Unfolding.png)
 
 ---
 
 ## Fig-005
 
-```markdown
-![Fig-005 — AI Structural Query Runtime](figures/Fig-005-AI-Structural-Query-Runtime.png)
-```
+![Fig-005 — AI Structural Query Runtime](../figures/Fig-005-AI-Structural-Query-Runtime.png)
 
 ---
 
