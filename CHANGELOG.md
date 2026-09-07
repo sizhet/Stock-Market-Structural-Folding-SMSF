@@ -10,7 +10,7 @@ This repository follows a research-oriented versioning model:
 
 ---
 
-## [1.0.0] — 2026-09-03
+## [1.0.0] — 2026-09-07
 
 ### Initial Public Architecture
 
