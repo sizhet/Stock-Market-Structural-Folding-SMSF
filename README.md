@@ -45,7 +45,7 @@ The central runtime principle is:
 ---
 
 <p align="center">
-  <img src="figures/README-Poster.png" width="100%" alt="Stock-Market Structural Folding README Poster">
+  <img src="figures/Stock-Market-Structural-Folding-Poster1.png" width="100%" alt="Stock-Market Structural Folding README Poster">
 </p>
 
 ---
@@ -325,7 +325,7 @@ An event may either be part of \(X\) or become an explicit Differential Tree lay
 ## 7. From Pattern Tree to Decision Interface
 
 <p align="center">
-  <img src="working_notes/Fig-003-Pattern-Tree-and-Leaf-Decision-Interface.png" width="95%" alt="Pattern Tree and Leaf Decision Interface">
+  <img src="figures/Fig-003-Pattern-Tree-and-Leaf-Decision-Interface.png" width="95%" alt="Pattern Tree and Leaf Decision Interface">
 </p>
 
 A Pattern Leaf represents a localized historical structural population.
@@ -1153,7 +1153,7 @@ AI Research Assistant
 
 2026
 
-DOI: TBD
+DOI: 10.5281/zenodo.22650432
     
 ---
 
